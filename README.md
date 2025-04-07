@@ -31,7 +31,7 @@ This project is a fully functional e-commerce website named "AMAZOON," designed 
 
 ## Live Demo
 
-[View the live website here](https://ralphruto.github.io/ShoppingWebsite) *(if hosted on GitHub Pages)*
+[View the live website here](https://ralphruto.github.io/ShoppingWebsite)
 
 
 ## Project Structure
